@@ -1,7 +1,9 @@
 # C
-Projects with C
 One of my first projects with C it was a Parking Management. 
 
+# Execution:
+            To execute it in Windows just run the .exe file.
+            
 # The project has the following structure:
 
             -F_Parking.txt: Where we can find data from Parking Management as well as how many parking spaces are there.
