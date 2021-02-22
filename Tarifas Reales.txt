@@ -1,0 +1,10 @@
+Tarifa general vehículos rotación: 
+
+ Tiempo de estancia	 Tarifa (euros / minuto)
+ De 0 a 30 minutos	 0,0416
+ De 31 a 90 minutos	 0,0373
+ De 91 a 660 minutos	 0,0498
+ De 661 minutos hasta un máximo de 24 horas	 31,85
+En dichas cifras se incluye el 21% de IVA.
+
+Fundamento legal: Decreto de 20 de diciembre de 2017 de la Delegada del Área de Gobierno de Medio Ambiente y Movilidad por el que se actualizan para el año 2018 las tarifas de los aparcamientos municipales mixtos y de rotación de la Ciudad de Madrid. BOAM núm.8058 de 26 de diciembre de 2017.
